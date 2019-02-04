@@ -1,0 +1,527 @@
+[
+  {
+    "iIndex": 1,
+    "sQuestion": "A boy is 10 years older than his brother. In 4 years he will be twice as old as his brother. Find the present age of each.",
+    "lEquations": [
+      "boy-brother=10.0",
+      "boy-2.0*brother=4.0"
+    ],
+    "lSolutions": [
+      16.0,
+      6.0
+    ]
+  },
+  {
+    "iIndex": 2,
+    "sQuestion": "A father is 4 times as old as his son. In 20 years the father will be twice as old as his son. Find the present age of each.",
+    "lEquations": [
+      "father=4.0*son",
+      "father-(2.0*son)=20.0"
+    ],
+    "lSolutions": [
+      10.0,
+      4.0
+    ]
+  },
+  {
+    "iIndex": 3,
+    "sQuestion": "Pat is 20 years older than his son James. In two years Pat will be twice as old as James. How old are they now?",
+    "lEquations": [
+      "pat=20.0+james",
+      "pat-(2.0*james)=2.0"
+    ],
+    "lSolutions": [
+      18.0,
+      38.0
+    ]
+  },
+  {
+    "iIndex": 4,
+    "sQuestion": "Diane is 23 years older than her daughter Amy. In 6 years Diane will be twice as old as Amy. How old are they now?",
+    "lEquations": [
+      "diane=23.0+amy",
+      "diane-(2.0*amy)=6.0"
+    ],
+    "lSolutions": [
+      17.0,
+      40.0
+    ]
+  },
+  {
+    "iIndex": 5,
+    "sQuestion": "Fred is 4 years older than Barney. Five years ago the sum of their ages was 48. How old are they now?",
+    "lEquations": [
+      "fred=4.0+barney",
+      "(fred-5.0)+(barney-5.0)=48.0"
+    ],
+    "lSolutions": [
+      31.0,
+      27.0
+    ]
+  },
+  {
+    "iIndex": 6,
+    "sQuestion": "John is four times as old as Martha. Five years ago the sum of their ages was 50. How old are they now?",
+    "lEquations": [
+      "john=4.0*martha",
+      "(john-5.0)+(martha-5.0)=50.0"
+    ],
+    "lSolutions": [
+      12.0,
+      48.0
+    ]
+  },
+  {
+    "iIndex": 7,
+    "sQuestion": "Tim is 5 years older than JoAnn. Six years from now the sum of their ages will be 79. How old are they now?",
+    "lEquations": [
+      "tim=5.0+joann",
+      "tim+6.0+joann+6.0=79.0"
+    ],
+    "lSolutions": [
+      31.0,
+      36.0
+    ]
+  },
+  {
+    "iIndex": 8,
+    "sQuestion": "Jack is twice as old as Lacy. In three years the sum of their ages will be 54. How old are they now?",
+    "lEquations": [
+      "2.0*jack=lacy",
+      "jack+3.0+lacy+3.0=54.0"
+    ],
+    "lSolutions": [
+      16.0,
+      32.0
+    ]
+  },
+  {
+    "iIndex": 9,
+    "sQuestion": "The sum of the ages of John and Mary is 32. Four years ago, John was twice as old as Mary. Find the present age of each.",
+    "lEquations": [
+      "john+mary=32.0",
+      "john-4.0=2.0*(mary-4.0)"
+    ],
+    "lSolutions": [
+      12.0,
+      20.0
+    ]
+  },
+  {
+    "iIndex": 10,
+    "sQuestion": "The sum of the ages of a father and son is 56. Four years ago the father was 3 times as old as the son. Find the present age of each.",
+    "lEquations": [
+      "father+son=56.0",
+      "(father-4.0)=3.0*(son-4.0)"
+    ],
+    "lSolutions": [
+      40.0,
+      16.0
+    ]
+  },
+  {
+    "iIndex": 11,
+    "sQuestion": "The sum of the ages of a china plate and a glass plate is 16 years. Four years ago the china plate was three times the age of the glass plate. Find the present age of each plate.",
+    "lEquations": [
+      "china_plate+glass_plate=16.0",
+      "china_plate-4.0=3.0*(glass_plate)"
+    ],
+    "lSolutions": [
+      10.0,
+      6.0
+    ]
+  },
+  {
+    "iIndex": 12,
+    "sQuestion": "The sum of the ages of a wood plaque and a bronze plaque is 20 years. Four years ago, the bronze plaque was one-half the age of the wood plaque. Find the present age of each plaque.",
+    "lEquations": [
+      "wood_plaque+bronze_plaque=20.0",
+      "(bronze_plaque-4.0)=0.5*(wood_plaque-4.0)",
+    ],
+    "lSolutions": [
+      12.0,
+      8.0
+    ]
+  },
+  {
+    "iIndex": 13,
+    "sQuestion": "A is now 34 years old, and B is 4 years old. In how many years will A be twice as old as B?",
+    "lEquations": [
+      "a=34.0",
+      "b=4.0",
+      "a+year=2.0*(b+year)"
+
+    ],
+    "lSolutions": [
+      26.0
+    ]
+  },
+  {
+    "iIndex": 14,
+    "sQuestion": "A man's age is 36 and that of his daughter is 3 years. In how many years will the man be 4 times as old as his daughter?",
+    "lEquations": [
+      "man=36.0",
+      "daughter=3.0",
+      "man+year=4.0*(daughter+year)",
+    ],
+    "lSolutions": [
+      8.0,
+    ]
+  },
+  {
+    "iIndex": 15,
+    "sQuestion": "An Oriental rug is 52 years old and a Persian rug is 16 years old. How many years ago was the Oriental rug four times as old as the Persian Rug?",
+    "lEquations": [
+      "oriental_rug=52.0",
+      "persian_rug=16.0",
+      "oriental_rug-year=4.0*(persian_rug-4.0)",
+
+    ],
+    "lSolutions": [
+      4.0
+    ]
+  },
+  {
+    "iIndex": 16,
+    "sQuestion": "A log cabin quilt is 24 years old and a friendship quilt is 6 years old. In how may years will the log cabin quilt be three times as old as the friendship quilt?",
+    "lEquations": [
+      "log_cabin_quilt=24.0",
+      "freindship_quilt=6.0",
+      "log_cabin_quilt+year=3.0*(friendship_quilt+year)"
+    ],
+    "lSolutions": [
+      3.0,
+    ]
+  },
+  {
+    "iIndex": 17,
+    "sQuestion": "The age of the older of two boys is twice that of the younger; 5 years ago it was three times that of the younger. Find the age of each. ",
+    "lEquations": [
+      "older=2.0*younger",
+      "older-5.0=3.0*(younger-5.0)"
+    ],
+    "lSolutions": [
+      10.0,
+      20.0
+    ]
+  },
+  {
+    "iIndex": 18,
+    "sQuestion": "A pitcher is 30 years old, and a vase is 22 years old. How many years ago was the pitcher twice as old as the vase? ",
+    "lEquations": [
+      "pitcher=30.0",
+      "vase=22.0",
+      "(pitcher-year)=2.0*(vase-year)"
+    ],
+    "lSolutions": [
+      14.0,
+    ]
+  },
+  {
+    "iIndex": 19,
+    "sQuestion": "Marge is twice as old as Consuelo. The sum of their ages seven years ago was 13. How old are they now?",
+    "lEquations": [
+      "marge=2.0*consuelo",
+      "(marge-7.0)+(consuelo-7.0)=13.0"
+    ],
+    "lSolutions": [
+      9.0,
+      18.0
+    ]
+  },
+  {
+    "iIndex": 20,
+    "sQuestion": "The sum of Jason and Mandy's age is 35. Ten years ago Jason was double Mandy's age. How old are they now?",
+    "lEquations": [
+      "jason+mandy=35.0",
+      "(jason-10.0)=2.0*(mandy-10.0)"
+    ],
+    "lSolutions": [
+      15.0,
+      20.0
+    ]
+  },
+  {
+    "iIndex": 21,
+    "sQuestion": "A silver coin is 28 years older than a bronze coin. In 6 years, the silver coin will be twice as old as the bronze coin. Find the present age of each coin.",
+    "lEquations": [
+      "silver_coin=28.0+bronze_coin",
+      "silver_coin+6.0=2.0*(bronze_coin+6.0)"
+    ],
+    "lSolutions": [
+      50.0,
+      22.0
+    ]
+  },
+  {
+    "iIndex": 22,
+    "sQuestion": "A sofa is 12 years old and a table is 36 years old. In how many years will the table be twice as old as the sofa?",
+    "lEquations": [
+      "sofa=12.0",
+      "table=36.0",
+      "table+year=2.0*(sofa+year)",
+    ],
+    "lSolutions": [
+      12.0
+    ]
+  },
+  {
+    "iIndex": 23,
+    "sQuestion": "A limestone statue is 56 years older than a marble statue. In 12 years, the limestone will be three times as old as the marble statue. Find the present age of the statues.",
+    "lEquations": [
+      "limestone_statue=56.0+marble_statue",
+      "limestone_statue+12.0=3.0*(marble_statue+12.0)"
+    ],
+    "lSolutions": [
+      72.0,
+      16.0
+    ]
+  },
+  {
+    "iIndex": 24,
+    "sQuestion": "A pewter bowl is 8 years old, and a silver bowl is 22 years old. In how many years will the silver bowl be twice the age of the pewter bowl?",
+    "lEquations": [
+      "pewter_bowl=8.0",
+      "silver_bowl=22.0",
+      "silver_bowl+year=2.0*(pewter_bowl+year)",
+    ],
+    "lSolutions": [
+      6.0
+    ]
+  },
+  {
+    "iIndex": 25,
+    "sQuestion": "Brandon is 9 years older than Ronda. In four years the sum of their ages will be 91. How old are they now?",
+    "lEquations": [
+      "brandon=9.0+ronda",
+      "brandon+4.0+ronda+4.0=91.0"
+    ],
+    "lSolutions": [
+      37.0,
+      46.0
+    ]
+  },
+  {
+    "iIndex": 26,
+    "sQuestion": "A kerosene lamp is 95 years old, and an electric lamp is 55 years old. How many years ago was the kerosene lamp twice the age of the electric lamp?",
+    "lEquations": [
+      "kerosene_lamp=95.0",
+      "electric_lamp=55.0",
+      "kerosene_lamp-year=2.0*(electric_lamp-year)",
+    ],
+    "lSolutions": [
+      15.0
+    ]
+  },
+  {
+    "iIndex": 27,
+    "sQuestion": "A father is three times as old as his son, and his daughter is 3 years younger than the son. If the sum of their ages 3 years ago was 63 years, find the present age of the father.",
+    "lEquations": [
+      "father=3.0*son",
+      "daughter-son=3.0",
+      "father-3.0+son-3.0+daughter-3.0=63.0"
+    ],
+    "lSolutions": [
+      45.0
+    ]
+  },
+  {
+    "iIndex": 28,
+    "sQuestion": "The sum of Clyde and Wendy's age is 64. In four years, Wendy will be three times as old as Clyde. How old are they now?",
+    "lEquations": [
+      "clyde+wendy=64.0",
+      "wendy+4.0=3.0*(clyde+4.0)"
+    ],
+    "lSolutions": [
+      14.0,
+      50.0
+    ]
+  },
+  {
+    "iIndex": 29,
+    "sQuestion": "The sum of the ages of two ships is 12 years. Two years ago, the age of the older ship was three times the age of the newer ship. Find the present age of each ship.",
+    "lEquations": [
+      "older_ship+younger_ship=12.0",
+      "older_ship-2.0=3.0*(younger_ship-2.0)"
+    ],
+    "lSolutions": [
+      8.0,
+      4.0
+    ]
+  },
+  {
+    "iIndex": 30,
+    "sQuestion": "Chelsea's age is double Daniel's age. Eight years ago the sum of their ages was 32. How old are they now?",
+    "lEquations": [
+      "chelsea=2.0*daniel",
+      "chelsea-8.0+daniel-8.0=32.0"
+    ],
+    "lSolutions": [
+      16.0,
+      32.0
+    ]
+  },
+  {
+    "iIndex": 31,
+    "sQuestion": "Ann is eighteen years older than her son. One year ago, she was three times as old as her son. How old are they now?",
+    "lEquations": [
+      "ann=18.0+son",
+      "ann-1.0=3.0*(son-1.0)",
+    ],
+    "lSolutions": [
+      10.0,
+      28.0
+    ]
+  },
+  {
+    "iIndex": 32,
+    "sQuestion": "The sum of the ages of Kristen and Ben is 32. Four years ago Kristen was twice as old as Ben. How old are they both now? ",
+    "lEquations": [
+      "kristen+ben=32.0",
+      "kristen-4.0=2.0*(ben-4.0)"
+    ],
+    "lSolutions": [
+      12.0,
+      20.0
+    ]
+  },
+  {
+    "iIndex": 33,
+    "sQuestion": "A mosaic is 74 years older than the engraving. Thirty years ago, the mosaic was three times as old as the engraving. Find the present age of each.",
+    "lEquations": [
+      "mosaic=74.0+engraving",
+      "mosaic-30.0=3.0*(engraving-30.0)"
+    ],
+    "lSolutions": [
+      141.0,
+      67.0
+    ]
+  },
+  {
+    "iIndex": 34,
+    "sQuestion": "The sum of the ages of Elli and Dan is 56. Four years ago Elli was 3 times as old as Dan. How old are they now?",
+    "lEquations": [
+      "elli+dan=54.0",
+      "elli-4.0=3.0*(dan-4.0)"
+    ],
+    "lSolutions": [
+      16.0,
+      40.0
+    ]
+  },
+  {
+    "iIndex": 35,
+    "sQuestion": "A wool tapestry is 32 years older than a linen tapestry. Twenty years ago, the wool tapestry was twice as old as the linen tapestry. Find the present age of each.",
+    "lEquations": [
+      "wool_tapestry=32.0+linen_tapestry",
+      "wool_tapestry-20.0=2.0*(linen_tapestry-20.0)"
+    ],
+    "lSolutions": [
+      84.0,
+      52.0,
+    ]
+  },
+  {
+    "iIndex": 36,
+    "sQuestion": "Carolyn's age is triple her daughter's age. In eight years the sum of their ages will be 72. How old are they now?",
+    "lEquations": [
+      "carolyn=3.0*daughter",
+      "carolyn+8.0+daughter+8.0=72.0"
+    ],
+    "lSolutions": [
+      14.0,
+      42.0
+    ]
+  },
+  {
+    "iIndex": 37,
+    "sQuestion": "Nicole is 26 years old. Emma is 2 years old. In how many years will Nicole be triple Emma's age?",
+    "lEquations": [
+      "nicole=26.0",
+      "emma=2.0",
+      "nicole+year=3.0*(emma+year)",
+    ],
+    "lSolutions": [
+      10.0
+    ]
+  },
+  {
+    "iIndex": 38,
+    "sQuestion": "The sum of the ages of two children is 16 years. Four years ago, the age of the older child was three times the age of the younger child. Find the present age of each child.",
+    "lEquations": [
+      "older_child+younger_child=16.0",
+      "older_child-4.0=3.0*(younger_child-4.0)"
+    ],
+    "lSolutions": [
+      10.0,
+      6.0
+    ]
+  },
+  {
+    "iIndex": 39,
+    "sQuestion": "Mike is 4 years older than Ron. In two years, the sum of their ages will be 84. How old are they now?",
+    "lEquations": [
+      "mike=4.0+ron",
+      "mike+2.0+ron+2.0=84.0"
+    ],
+    "lSolutions": [
+      38.0,
+      42.0
+    ]
+  },
+  {
+    "iIndex": 40,
+    "sQuestion": "A marble bust is 25 years old, and a terra-cotta bust is 85 years old. In how many years will the terra-cotta bust be three times as old as the marble bust?",
+    "lEquations": [
+      "marble_bust=25.0",
+      "terra-cotta_bust=85.0",
+      "terra-cotta_bust+year=3.0*(marble_bust+year)",
+    ],
+    "lSolutions": [
+      5.0
+    ]
+  },
+  {
+    "iIndex": 41,
+    "sQuestion": "Pat is 10 years old. In two years Pat will be twice as old as James. How old is James?",
+    "lEquations": [
+      "pat=10.0",
+      "pat+2.0=2.0*(james+2.0)",
+    ],
+    "lSolutions": [
+      4.0
+    ]
+  },
+  {
+    "iIndex": 42,
+    "sQuestion": "In another 4 years, I will be 5 times as old as I was 8 years ago. How old am I now?",
+    "lEquations": [
+      "i+4.0=5.0*(i-8.0)"
+    ],
+    "lSolutions": [
+      11.0
+    ]
+  },
+  {
+    "iIndex": 43,
+    "sQuestion": "Ajay is 26 years old in 2016. How old will he be in 2020?",
+    "lEquations": [
+      "2020.0-2016.0=ajay-26.0",
+    ],
+    "lSolutions": [
+      30.0
+    ]
+  },
+  {
+    "iIndex": 44,
+    "sQuestion": "The sum of Tom's and Lou's age is 41 and the difference is 31. How old are they?",
+    "lEquations": [
+      "tom+lou=41.0",
+      "tom-lou=31.0"
+    ],
+    "lSolutions": [
+      36.0,
+      5.0
+    ]
+  }
+]
